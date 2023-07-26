@@ -5,7 +5,7 @@ import { AppComponent } from './app.component';
 import { Grafica1Component } from './grafica1/grafica1.component';
 import { HttpClientModule } from '@angular/common/http';
 import { Grafica2Component } from './grafica2/grafica2.component';
-import { Grafica3Component } from './components/grafica3/grafica3.component';
+import { Grafica3Component } from './grafica3/grafica3.component';
 
 @NgModule({
   declarations: [
