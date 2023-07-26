@@ -1,0 +1,13 @@
+#bar-chart{
+    height: 100%;
+    width: 100%;
+}
+
+div{
+    height: auto;
+    width: 900px;
+    border-radius: 16px;
+    background-color: rgba(247, 249, 251, 1);
+    margin: 50px;
+    padding: 20px;
+}
